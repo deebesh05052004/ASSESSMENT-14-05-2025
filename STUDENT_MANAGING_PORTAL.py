@@ -1,4 +1,4 @@
-import JSON
+import student_data
 
 def add_student():
     try:
